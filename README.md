@@ -2,8 +2,9 @@
 I am Charlotte Currey - Software Engineer 😄
 ![1](https://github.com/charlottecurrey/charlottecurrey/assets/122467377/1e4a2dff-8eb0-497c-bb0d-4dbd081f31c6)
 
-Connect with me
-https://www.linkedin.com/in/charlotte-currey/ 
+Connect with me:
+
+<a href="https://www.linkedin.com/in/charlotte-currey/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2) 
 
 ---
 <h2>👨‍💻 About Me:</h2>
