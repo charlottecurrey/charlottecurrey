@@ -17,6 +17,10 @@ I am a Full Stack Developer, with a background in art history and marketing. I'm
 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" width="50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" />
 ---
+<h2>Top Repos:</h2>
+https://github.com/Free-Body/free-body/tree/main/my-app
+---
+
 <h2>My Stats: </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=charlottecurrey)](https://git.io/streak-stats)
