@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Charlotte Currey - Software Engineer 😄
+![1](https://github.com/charlottecurrey/charlottecurrey/assets/122467377/1e4a2dff-8eb0-497c-bb0d-4dbd081f31c6)
 
 <!--
 **charlottecurrey/charlottecurrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
